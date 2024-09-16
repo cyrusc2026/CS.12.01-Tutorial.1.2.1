@@ -1,5 +1,5 @@
 public class StepTracker {
-
+//“I have neither given nor received unauthorized aid on this piece of work.
         private int activeDays = 0;
         private int totalSteps = 0;
         private int Days = 0;
